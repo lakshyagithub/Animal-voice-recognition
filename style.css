@@ -1,11 +1,7 @@
 body{
     text-align: center;
+    font-family: 'Ubuntu', sans-serif;
 }
 .copy_right_text{
-    text-shadow: currentColor;
-    text-shadow: red;
-    text-shadow: 1;
-}
-.setor{
-    background-color: aqua;
+    text-anchor: end;
 }
